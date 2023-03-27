@@ -1,5 +1,5 @@
 # MultFYLM-designs
-These are files used to create high-resolution photomasks to fabricate the fission yeast lifespan microdissector (FYLM) using photolithography/soft lithography. This permutation of the design allows the fabrication of 6 parallel devices that can be run in tandem, which we call the "MultFYLM" References to the use of both FYLM and MultFYLM can be found in the following papers:
+These are files used to create high-resolution photomasks to fabricate the fission yeast lifespan microdissector (FYLM) using photolithography/soft lithography. This permutation of the design allows the fabrication of 6 parallel devices that can be run in tandem, which we call the "MultFYLM" In the following files, "Layer 1" refers to the design for the layer that contains the cell catch channels, while "Layer 2" contains the design for the conduits that feed the cell traps. References to the use of both FYLM and MultFYLM can be found in the following papers:
 
 Spivey, E. C., Xhemalce, B., Shear, J. B. & Finkelstein, I. J. 3D-printed microfluidic microdissector for high-throughput studies of cellular aging. Anal. Chem. 86, 7406–7412 (2014).
 
